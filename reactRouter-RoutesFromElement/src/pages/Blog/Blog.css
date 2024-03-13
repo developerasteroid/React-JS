@@ -1,0 +1,25 @@
+/* BlogPage.css */
+
+.blog-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  
+  .blog-post {
+    margin-bottom: 40px;
+  }
+  .blog-container h1 {
+    margin-bottom: 10px;
+  }
+  .blog-post h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .blog-post p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #666;
+  }
+  
